@@ -1,11 +1,7 @@
 %{
 	#include "y.tab.h"
 	extern void yyerror(string);
-	/*
-		Group :- TinyC-67
-		Golla Meghanandh Manvith Prabhash :- 22CS30027
-		Darapu Adhithya  :- 22CS30019
-	*/
+	
 	string Globe="";
 %}
 
