@@ -3,11 +3,7 @@
 #include <string.h>
 #include "lex.yy.c"  // Include the generated lexer file
 
-/*
-    Group :- TinyC-67
-    Golla Meghanandh Manvith Prabhash :- 22CS30027
-    Darapu Adhithya  :- 22CS30019
-*/
+
 
 typedef struct _node {
    char *name;
