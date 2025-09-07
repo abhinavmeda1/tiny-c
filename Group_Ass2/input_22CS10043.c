@@ -1,8 +1,4 @@
-/*
-    Group :- TinyC-67
-    Golla Meghanandh Manvith Prabhash :- 22CS30027
-    Darapu Adhithya  :- 22CS30019
-*/
+
 extern int value;
 static const double scp = 1.414;
 auto b = 34;
