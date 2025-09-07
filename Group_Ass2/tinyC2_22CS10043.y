@@ -6,11 +6,7 @@
     // #define YYDEBUG 1 //For Debugging 
     // int yydebug=1;
     
-    /*
-        Group :- TinyC-67
-        Golla Meghanandh Manvith Prabhash :- 22CS30027
-        Darapu Adhithya  :- 22CS30019
-    */
+    
 
     int yylex();
     void yyerror(char *ERRORS);
